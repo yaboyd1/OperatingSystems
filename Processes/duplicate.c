@@ -25,7 +25,7 @@ HINT: Use pipe to transfer data between processes
 int main(int argc, char** argv) {
 	// Initialize variables
 	const char* message = "\nParent is writing:\n";
-	char* filepath = "readme.txt";
+	char* filepath = "source.txt";
 	int pipefd[2], fd;
 	char buf;
 
