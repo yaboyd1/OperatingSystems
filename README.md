@@ -12,7 +12,7 @@ Lectures and Projects completed to learn about Operating Systems.
 6. [A Simple Shell](/SimpleShell/)
 7. [Threads](/Threads/)
 8. [CPU](/CPU/)
-9. [Process Synchronization](/Synchronization/)
+9. [Process Synchronization using Mutex Locks and Semaphores](/Synchronization/)
 	- [Printer](/Synchronization/Printer/)
 	- [Bank](/Synchronization/Bank/)
 	- [Smoker](/Synchronization/Smoker/)
